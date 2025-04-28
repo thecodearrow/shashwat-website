@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "public",
+    "site": "shashwat-rao",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
